@@ -1,7 +1,7 @@
 [
     {
         "id": 12345,
-        "name": "imp notes mid",
+        "name": "Imp notes mid",
         "year": "II",
         "branch": "CSE ECE CSIT",
         "course": "Automata Theory",
@@ -12,7 +12,7 @@
     },
     {
         "id": 78902,
-        "name": "imp notes mid",
+        "name": "Python Unit 2",
         "year": "II",
         "branch": "CSE ECE CSIT",
         "course": "Python",
