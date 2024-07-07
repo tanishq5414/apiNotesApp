@@ -6,7 +6,7 @@
         "subititle": "LightHeads",
         "description": "LightHeads",
         "redirectUrl": "https://www.lightheads.org/",
-        "display": true
+        "display": false
     },
     {
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/notesapp-7d858.appspot.com/o/LH%20MERCH.png?alt=media&token=564ddd72-0f73-45eb-89ed-b4ae0e4d6766",
@@ -24,7 +24,7 @@
         "subititle": "LightHeads",
         "description": "LightHeads",
         "redirectUrl": "https://www.lightheads.org/",
-        "display": true
+        "display": false
     }
 
 ]
